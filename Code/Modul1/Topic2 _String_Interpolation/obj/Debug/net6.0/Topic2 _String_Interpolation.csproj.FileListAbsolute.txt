@@ -1,0 +1,15 @@
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\bin\Debug\net6.0\Topic2 _String_Interpolation.exe
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\bin\Debug\net6.0\Topic2 _String_Interpolation.deps.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\bin\Debug\net6.0\Topic2 _String_Interpolation.runtimeconfig.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\bin\Debug\net6.0\Topic2 _String_Interpolation.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\bin\Debug\net6.0\Topic2 _String_Interpolation.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\Topic2 _String_Interpolation.csproj.AssemblyReference.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\Topic2 _String_Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\Topic2 _String_Interpolation.AssemblyInfoInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\Topic2 _String_Interpolation.AssemblyInfo.cs
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\Topic2 _String_Interpolation.csproj.CoreCompileInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\Topic2 _String_Interpolation.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\refint\Topic2 _String_Interpolation.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\Topic2 _String_Interpolation.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\Topic2 _String_Interpolation.genruntimeconfig.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic2 _String_Interpolation\obj\Debug\net6.0\ref\Topic2 _String_Interpolation.dll

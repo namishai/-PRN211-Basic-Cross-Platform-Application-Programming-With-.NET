@@ -1,0 +1,15 @@
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.exe
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.deps.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.runtimeconfig.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.csproj.AssemblyReference.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.AssemblyInfoInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.AssemblyInfo.cs
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.csproj.CoreCompileInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\refint\Topic1_var_dynamic_keyword.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.genruntimeconfig.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic1_var_dynamic_keyword\obj\Debug\net6.0\ref\Topic1_var_dynamic_keyword.dll

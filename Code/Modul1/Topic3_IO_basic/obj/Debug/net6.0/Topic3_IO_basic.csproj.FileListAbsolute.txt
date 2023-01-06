@@ -1,0 +1,15 @@
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\Topic3_IO_basic.csproj.AssemblyReference.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\Topic3_IO_basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\Topic3_IO_basic.AssemblyInfoInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\Topic3_IO_basic.AssemblyInfo.cs
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\Topic3_IO_basic.csproj.CoreCompileInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\bin\Debug\net6.0\Topic3_IO_basic.exe
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\bin\Debug\net6.0\Topic3_IO_basic.deps.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\bin\Debug\net6.0\Topic3_IO_basic.runtimeconfig.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\bin\Debug\net6.0\Topic3_IO_basic.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\bin\Debug\net6.0\Topic3_IO_basic.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\Topic3_IO_basic.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\refint\Topic3_IO_basic.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\Topic3_IO_basic.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\Topic3_IO_basic.genruntimeconfig.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic3_IO_basic\obj\Debug\net6.0\ref\Topic3_IO_basic.dll

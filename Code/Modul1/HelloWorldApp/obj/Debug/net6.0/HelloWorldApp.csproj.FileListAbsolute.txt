@@ -1,0 +1,15 @@
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.exe
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.deps.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.runtimeconfig.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.csproj.AssemblyReference.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.AssemblyInfoInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.AssemblyInfo.cs
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\refint\HelloWorldApp.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.genruntimeconfig.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\HelloWorldApp\obj\Debug\net6.0\ref\HelloWorldApp.dll
