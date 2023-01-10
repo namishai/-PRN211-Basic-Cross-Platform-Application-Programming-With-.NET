@@ -1,0 +1,15 @@
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\bin\Debug\net6.0\Topic5_Tuples.exe
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\bin\Debug\net6.0\Topic5_Tuples.deps.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\bin\Debug\net6.0\Topic5_Tuples.runtimeconfig.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\bin\Debug\net6.0\Topic5_Tuples.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\bin\Debug\net6.0\Topic5_Tuples.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\Topic5_Tuples.csproj.AssemblyReference.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\Topic5_Tuples.GeneratedMSBuildEditorConfig.editorconfig
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\Topic5_Tuples.AssemblyInfoInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\Topic5_Tuples.AssemblyInfo.cs
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\Topic5_Tuples.csproj.CoreCompileInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\Topic5_Tuples.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\refint\Topic5_Tuples.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\Topic5_Tuples.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\Topic5_Tuples.genruntimeconfig.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic5_Tuples\obj\Debug\net6.0\ref\Topic5_Tuples.dll

@@ -1,0 +1,15 @@
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\bin\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.exe
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\bin\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.deps.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\bin\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.runtimeconfig.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\bin\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\bin\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.csproj.AssemblyReference.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.AssemblyInfoInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.AssemblyInfo.cs
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.csproj.CoreCompileInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\refint\Topic4_Ref_Out_Prama_KeyWord.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\Topic4_Ref_Out_Prama_KeyWord.genruntimeconfig.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Modul1\Topic4_Ref_Out_Prama_KeyWord\obj\Debug\net6.0\ref\Topic4_Ref_Out_Prama_KeyWord.dll

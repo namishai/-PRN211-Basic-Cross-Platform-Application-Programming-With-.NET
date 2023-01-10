@@ -1,0 +1,15 @@
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\Topic1_Encapsolution.csproj.AssemblyReference.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\Topic1_Encapsolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\Topic1_Encapsolution.AssemblyInfoInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\Topic1_Encapsolution.AssemblyInfo.cs
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\Topic1_Encapsolution.csproj.CoreCompileInputs.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\bin\Debug\net6.0\Topic1_Encapsolution.exe
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\bin\Debug\net6.0\Topic1_Encapsolution.deps.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\bin\Debug\net6.0\Topic1_Encapsolution.runtimeconfig.json
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\bin\Debug\net6.0\Topic1_Encapsolution.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\bin\Debug\net6.0\Topic1_Encapsolution.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\Topic1_Encapsolution.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\refint\Topic1_Encapsolution.dll
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\Topic1_Encapsolution.pdb
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\Topic1_Encapsolution.genruntimeconfig.cache
+E:\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic1_Encapsolution\obj\Debug\net6.0\ref\Topic1_Encapsolution.dll
