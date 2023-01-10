@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\Topic4_Ref_Out_Prama_KeyWord.csproj": {}
+    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\Topic4_Ref_Out_Prama_KeyWord.csproj": {}
   },
   "projects": {
-    "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\Topic4_Ref_Out_Prama_KeyWord.csproj": {
+    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\Topic4_Ref_Out_Prama_KeyWord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\Topic4_Ref_Out_Prama_KeyWord.csproj",
+        "projectUniqueName": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\Topic4_Ref_Out_Prama_KeyWord.csproj",
         "projectName": "Topic4_Ref_Out_Prama_KeyWord",
-        "projectPath": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\Topic4_Ref_Out_Prama_KeyWord.csproj",
+        "projectPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\Topic4_Ref_Out_Prama_KeyWord.csproj",
         "packagesPath": "C:\\Users\\haiqd\\.nuget\\packages\\",
-        "outputPath": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\obj\\",
+        "outputPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic4_Ref_Out_Prama_KeyWord\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

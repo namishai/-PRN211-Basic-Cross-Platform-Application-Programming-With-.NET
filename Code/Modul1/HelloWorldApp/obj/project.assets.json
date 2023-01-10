@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\HelloWorldApp\\HelloWorldApp.csproj",
+      "projectUniqueName": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\HelloWorldApp\\HelloWorldApp.csproj",
       "projectName": "HelloWorldApp",
-      "projectPath": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\HelloWorldApp\\HelloWorldApp.csproj",
+      "projectPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\HelloWorldApp\\HelloWorldApp.csproj",
       "packagesPath": "C:\\Users\\haiqd\\.nuget\\packages\\",
-      "outputPath": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\HelloWorldApp\\obj\\",
+      "outputPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\HelloWorldApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

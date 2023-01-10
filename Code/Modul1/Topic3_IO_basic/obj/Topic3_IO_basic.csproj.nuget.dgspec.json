@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\Topic3_IO_basic.csproj": {}
+    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\Topic3_IO_basic.csproj": {}
   },
   "projects": {
-    "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\Topic3_IO_basic.csproj": {
+    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\Topic3_IO_basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\Topic3_IO_basic.csproj",
+        "projectUniqueName": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\Topic3_IO_basic.csproj",
         "projectName": "Topic3_IO_basic",
-        "projectPath": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\Topic3_IO_basic.csproj",
+        "projectPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\Topic3_IO_basic.csproj",
         "packagesPath": "C:\\Users\\haiqd\\.nuget\\packages\\",
-        "outputPath": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\obj\\",
+        "outputPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic3_IO_basic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

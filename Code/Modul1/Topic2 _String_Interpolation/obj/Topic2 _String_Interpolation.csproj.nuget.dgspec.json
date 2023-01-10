@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\Topic2 _String_Interpolation.csproj": {}
+    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\Topic2 _String_Interpolation.csproj": {}
   },
   "projects": {
-    "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\Topic2 _String_Interpolation.csproj": {
+    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\Topic2 _String_Interpolation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\Topic2 _String_Interpolation.csproj",
+        "projectUniqueName": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\Topic2 _String_Interpolation.csproj",
         "projectName": "Topic2 _String_Interpolation",
-        "projectPath": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\Topic2 _String_Interpolation.csproj",
+        "projectPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\Topic2 _String_Interpolation.csproj",
         "packagesPath": "C:\\Users\\haiqd\\.nuget\\packages\\",
-        "outputPath": "E:\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\obj\\",
+        "outputPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Modul1\\Topic2 _String_Interpolation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
