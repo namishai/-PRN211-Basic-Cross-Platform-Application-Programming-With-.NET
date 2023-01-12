@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic1_Encapsolution", "Topic1_Encapsolution\Topic1_Encapsolution.csproj", "{0DE0FB34-A51F-4533-A944-CC6E908010F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic1_Encapsolution", "Topic1_Encapsolution\Topic1_Encapsolution.csproj", "{0DE0FB34-A51F-4533-A944-CC6E908010F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic3", "Topic3\Topic3.csproj", "{15626EF5-631D-47F2-97EA-D22E1F254579}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0DE0FB34-A51F-4533-A944-CC6E908010F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DE0FB34-A51F-4533-A944-CC6E908010F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DE0FB34-A51F-4533-A944-CC6E908010F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15626EF5-631D-47F2-97EA-D22E1F254579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15626EF5-631D-47F2-97EA-D22E1F254579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15626EF5-631D-47F2-97EA-D22E1F254579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15626EF5-631D-47F2-97EA-D22E1F254579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

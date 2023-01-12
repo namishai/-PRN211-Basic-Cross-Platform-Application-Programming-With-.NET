@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic1_Encapsolution\\Topic1_Encapsolution.csproj": {}
+    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic3\\Topic3.csproj": {}
   },
   "projects": {
-    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic1_Encapsolution\\Topic1_Encapsolution.csproj": {
+    "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic3\\Topic3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic1_Encapsolution\\Topic1_Encapsolution.csproj",
-        "projectName": "Topic1_Encapsolution",
-        "projectPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic1_Encapsolution\\Topic1_Encapsolution.csproj",
+        "projectUniqueName": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic3\\Topic3.csproj",
+        "projectName": "Topic3",
+        "projectPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic3\\Topic3.csproj",
         "packagesPath": "C:\\Users\\haiqd\\.nuget\\packages\\",
-        "outputPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic1_Encapsolution\\obj\\",
+        "outputPath": "E:\\TERM 5_Spring2023\\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\\Code\\Module2_OOP\\Topic3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

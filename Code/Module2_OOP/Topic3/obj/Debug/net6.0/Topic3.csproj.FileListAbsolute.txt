@@ -1,0 +1,15 @@
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\bin\Debug\net6.0\Topic3.exe
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\bin\Debug\net6.0\Topic3.deps.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\bin\Debug\net6.0\Topic3.runtimeconfig.json
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\bin\Debug\net6.0\Topic3.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\bin\Debug\net6.0\Topic3.pdb
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\Topic3.csproj.AssemblyReference.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\Topic3.GeneratedMSBuildEditorConfig.editorconfig
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\Topic3.AssemblyInfoInputs.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\Topic3.AssemblyInfo.cs
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\Topic3.csproj.CoreCompileInputs.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\Topic3.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\refint\Topic3.dll
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\Topic3.pdb
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\Topic3.genruntimeconfig.cache
+E:\TERM 5_Spring2023\-PRN211-Basic-Cross-Platform-Application-Programming-With-.NET\Code\Module2_OOP\Topic3\obj\Debug\net6.0\ref\Topic3.dll
